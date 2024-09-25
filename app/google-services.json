@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "751401306427",
+    "project_id": "st-nobrainerquizapp",
+    "storage_bucket": "st-nobrainerquizapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751401306427:android:d5dd1641cbf1c5c513cf1e",
+        "android_client_info": {
+          "package_name": "com.example.st_nobrainerquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751401306427-vm3g5qp7locvitduv6mf5ribi8oplkbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.st_nobrainerquizapp",
+            "certificate_hash": "7bed06fa297cbed2303cca942a54cae570b96c55"
+          }
+        },
+        {
+          "client_id": "751401306427-mmjh1vu4pal7vprknvk541fc0p9q5jf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqoF76qlr_nWQDtU0FvMy3EvAb2ftmApk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751401306427-mmjh1vu4pal7vprknvk541fc0p9q5jf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
