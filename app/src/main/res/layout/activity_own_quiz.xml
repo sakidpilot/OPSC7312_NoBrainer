@@ -45,11 +45,11 @@
                     android:id="@+id/edit_quiz_title"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Enter your question"
                     android:background="@drawable/edit_text_background"
+                    android:hint="Enter your quiz category/title"
                     android:inputType="text"
-                    android:textSize="16sp"
-                    android:padding="10dp" />
+                    android:padding="10dp"
+                    android:textSize="16sp" />
             </com.google.android.material.textfield.TextInputLayout>
 
 

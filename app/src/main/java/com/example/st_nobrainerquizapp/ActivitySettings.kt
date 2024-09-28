@@ -20,9 +20,15 @@ class ActivitySettings : AppCompatActivity() {
             buttonEditUser.setOnClickListener(){
                 startActivity(Intent(this@ActivitySettings, ActivityEditUser::class.java))
             }
-            buttonDarkMode.setOnClickListener(){}
-            buttonLightMode.setOnClickListener(){}
-            buttonLanguages.setOnClickListener(){}
+            buttonDarkMode.setOnClickListener(){
+                Toast.makeText(this@ActivitySettings,"Feature in development POE 3", Toast.LENGTH_SHORT).show()
+            }
+            buttonLightMode.setOnClickListener(){
+                Toast.makeText(this@ActivitySettings,"Feature in development POE 3", Toast.LENGTH_SHORT).show()
+            }
+            buttonLanguages.setOnClickListener(){
+                Toast.makeText(this@ActivitySettings,"Feature in development POE 3", Toast.LENGTH_SHORT).show()
+            }
 
             buttonUserManual.setOnClickListener(){
                 startActivity(Intent(this@ActivitySettings, ActivityUserManual::class.java))
