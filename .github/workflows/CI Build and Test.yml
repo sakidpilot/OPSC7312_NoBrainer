@@ -1,7 +1,8 @@
+# Project Workflow Name
 name: OPSC7312_NoBrainer CI Build and Test 
 
 on:
-
+# When push command run on main - execute workflow
   push:
     branches:
       - main
@@ -11,18 +12,21 @@ on:
 jobs:
   build:
 
+    # Use at runtime
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
 
+      # Setup java nodes
       - name: Set Up JDK
         uses: actions/setup-java@v2
         with:
-          distribution: 'zulu' # See 'Supported distributions' for available options
+          distribution: 'zulu' 
           java-version: '17'
           cache: 'gradle'
 
+      # Update gradle permissions for flows
       - name: Change wrapper permissions
         run: chmod +x ./gradlew
 
