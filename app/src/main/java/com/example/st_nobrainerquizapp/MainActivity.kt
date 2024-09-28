@@ -87,6 +87,10 @@ class MainActivity : AppCompatActivity() {
 
             tvUserWelcome.setText("Hi, " + auth)
 
+            chatbtn.setOnClickListener(){
+                Toast.makeText(this@MainActivity,"Feature in development POE3", Toast.LENGTH_SHORT).show()
+            }
+
             btnOtherGames.setOnClickListener{
                 val intent = Intent(this@MainActivity, OtherGamesActivity::class.java)
                 startActivity(intent)
@@ -111,7 +115,7 @@ class MainActivity : AppCompatActivity() {
 
                     R.id.nav_board -> {
                         //startActivity(Intent(this, LeaderActivity::class.java))
-                        Toast.makeText(this@MainActivity,"Leaderboard feature in development", Toast.LENGTH_SHORT).show()
+                        Toast.makeText(this@MainActivity,"Leaderboard feature in development POE3", Toast.LENGTH_SHORT).show()
                         true
                     }
 
