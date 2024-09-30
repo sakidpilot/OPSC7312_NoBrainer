@@ -32,6 +32,8 @@ The rest api is hosted and live on Azure and a CD/CI pipeline has been set up be
 For the code of the app. The code will be pushed to Github and we will set up Github workflows to test the code integrity. 
 
 The REST API code for No Brainer is hosted on Azure Web App services. Azure was chosen due to its robust hosting solutions and scalability options. With Azure's Web App services, the API is accessible and responsive, ensuring high availability and performance.
+
+A CI/CD pipeline was set up between the GitHub repository and the Azure Web App Host service. This pipeline ensures that any code changes pushed to GitHub are automatically built, tested, and deployed to Azure, maintaining consistency and reliability.
 ___
 
 ## Installation
