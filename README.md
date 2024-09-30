@@ -23,6 +23,11 @@ Technologies Used:
 - Language: Kotlin
 - Minimum SDK:  API 24: Android Studio Iguana
 - Firebase Database Technologies
+
+Extra Features:
+- Hint: User can pay 5 tokens for a hint while playing the quiz.
+- Create your own quiz: User can create, play and delete their own personal quiz. 
+- Other Game: User can play other games on the No brainer app. Currently user can play the snake game.
 ___
 ## Github and Github Actions 
 
