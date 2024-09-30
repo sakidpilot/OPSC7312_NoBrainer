@@ -121,6 +121,9 @@ On this page, users can fully edit their gaming profile, and the updated profile
 
 ![image14](https://github.com/user-attachments/assets/8fceea89-c987-42ef-9496-b298ab240ca8)
 When users click on the user manual, they can view a description of the No Brainer app and how it works. The user manual is retrieved from the REST API.
+
+## Learder board 
+At the bottom of the navigation bar is a trophy icon. Once users click on it, they will be directed to the leaderboard page. This feature will be introduced in Part 3.
 ___
 
 If there is any uncertainty, below lies a link to a demonstration video on how to use the application, and another video explaining the tech stack employed in the application development.
