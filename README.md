@@ -7,11 +7,11 @@ ___
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Github and Github Actions](#github-and-github-actions)
 - [Installation](#installation)
 - [Usage](#usage)
 - [How to install and run the project](#how-to-install-and-run-the-project)
 - [Team](#team)
-
 ___
 
 ## Project Overview
