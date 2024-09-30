@@ -48,7 +48,8 @@ ___
 
 If there is any uncertainty, below lies a link to a demonstration video on how to use the application.
 
-[No Brainer Presentation Video]()
+[No Brainer App Presentation Video](https://youtu.be/XVBMSLy3TrA)
+[No Brainer App, DB, REST API tech stack Presentation Video](https://youtu.be/QwDc9Z9QMiE)
 
 ___
 
