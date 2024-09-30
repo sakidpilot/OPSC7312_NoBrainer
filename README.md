@@ -46,9 +46,11 @@ Once the project is running using the emulator or device.
 
 ___
 
-If there is any uncertainty, below lies a link to a demonstration video on how to use the application.
+If there is any uncertainty, below lies a link to a demonstration video on how to use the application, and another video explaining the tech stack employed in the application development.
 
 [No Brainer App Presentation Video](https://youtu.be/XVBMSLy3TrA)
+
+
 [No Brainer App, DB, REST API tech stack Presentation Video](https://youtu.be/QwDc9Z9QMiE)
 
 ___
