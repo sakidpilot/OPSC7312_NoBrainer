@@ -53,7 +53,7 @@ ___
 
 Once the project is running using the emulator or device.
 
-## Login Pasge
+## Login Page
 
 ![image0](https://github.com/user-attachments/assets/011ae6b7-acc9-46ef-9803-d3d4bf134dbe)
 The login page provides users with multiple options for authentication. Existing users can log in by entering their credentials, while new users can easily register for an account. Additionally, users have the convenience of Single Sign-On (SSO) using their Gmail accounts for faster and more secure access. If a user forgets their password, they can reset it by clicking on the "Forgot Password" button. All logins data, including user authentication details, are securely stored and managed using Firebase, ensuring data integrity and security throughout the process.
